@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Marcos Santos",
+      "mail": "marcosalmeida0109@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Cris",
+      "mail": "cris@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "title": "Product One",
+      "price": 150,
+      "id": 2
+    },
+    {
+      "title": "Product Two",
+      "price": 190,
+      "id": 3
+    },
+    {
+      "title": "Product Two",
+      "price": "220",
+      "id": 4
+    }
+  ],
+  "children": [
+    {
+      "id": 1,
+      "name": "Rylan",
+      "age": 2
+    },
+    {
+      "id": 2,
+      "name": "Ayva",
+      "age": 4
+    },
+    {
+      "id": 3,
+      "name": "Ivy",
+      "age": 4
+    },
+    {
+      "id": 4,
+      "name": "Aryan",
+      "age": 2
+    },
+    {
+      "id": 4,
+      "name": "Peter",
+      "age": 2
+    }
+  ],
+  "orders": [
+    {
+      "id": 1
+    },
+    {
+      "date": "2020-12-27T02:56:47.739Z",
+      "uuid": "7286b818-def2-44a6-8a69-58e4a4ce3d64",
+      "id": 2
+    }
+  ]
+}
